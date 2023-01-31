@@ -1,0 +1,6 @@
+jdbc_connection.dbms=postgres
+jdbc_connection.host=localhost
+jdbc_connection.port=5433
+jdbc_connection.login=postgres
+jdbc_connection.password=some_password
+jdbc_connection.database=name_of_your_database
